@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/mf-react/static/css/main.e2c38dd6.chunk.css",
+    "main.js": "/github.io/mf-react/static/js/main.07c5bf0d.chunk.js",
+    "main.js.map": "/github.io/mf-react/static/js/main.07c5bf0d.chunk.js.map",
+    "runtime-main.js": "/github.io/mf-react/static/js/runtime-main.9b7d6c34.js",
+    "runtime-main.js.map": "/github.io/mf-react/static/js/runtime-main.9b7d6c34.js.map",
+    "static/js/2.e8b4e775.chunk.js": "/github.io/mf-react/static/js/2.e8b4e775.chunk.js",
+    "static/js/2.e8b4e775.chunk.js.map": "/github.io/mf-react/static/js/2.e8b4e775.chunk.js.map",
+    "static/js/3.e2f0cec9.chunk.js": "/github.io/mf-react/static/js/3.e2f0cec9.chunk.js",
+    "static/js/3.e2f0cec9.chunk.js.map": "/github.io/mf-react/static/js/3.e2f0cec9.chunk.js.map",
+    "index.html": "/github.io/mf-react/index.html",
+    "static/css/main.e2c38dd6.chunk.css.map": "/github.io/mf-react/static/css/main.e2c38dd6.chunk.css.map",
+    "static/js/2.e8b4e775.chunk.js.LICENSE.txt": "/github.io/mf-react/static/js/2.e8b4e775.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b7d6c34.js",
+    "static/js/2.e8b4e775.chunk.js",
+    "static/css/main.e2c38dd6.chunk.css",
+    "static/js/main.07c5bf0d.chunk.js"
+  ]
+}
